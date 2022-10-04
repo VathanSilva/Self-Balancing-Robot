@@ -1,0 +1,2 @@
+# Self-Balancing-Robot
+In this Arduino Project, I Built Self Balancing Robot using Arduino Microcontroller. This Self Balancing Robot is a Two-wheeled Robot that balances vertically using a closed-loop algorithm. This Self Balancing Robot Features various modes like Position Hold, Simple Mode, Rise Mode and Joystick Control. Self Balancing robot uses data from the Accelerometer and Gyroscope to correct its orientation and position.
